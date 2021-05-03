@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1619257896 source:c:\snake_2d_game\main.cpp
+	"header.h"
+
+1619253344 source:c:\snake_2d_game\food.cpp
+	"header.h"
+
+1619923851 c:\snake_2d_game\header.h
+	"SDL.h"
+	<iostream>
+	<Windows.h>
+	<vector>
+	<conio.h>
+	<ctime>
+
+1619923795 source:c:\snake_2d_game\wall.cpp
+	"header.h"
+
+1620007215 source:c:\snake_2d_game\function.cpp
+	"header.h"
+
